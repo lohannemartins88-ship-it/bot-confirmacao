@@ -1,0 +1,16 @@
+{
+  "name": "bot-confirmacao",
+  "version": "1.0.0",
+  "description": "Bot de confirmação de compras",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
